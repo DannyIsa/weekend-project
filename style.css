@@ -160,5 +160,25 @@ body{
     margin: 10px;
 }
 #footer img {
-    width: 90px;
+    width: 80px;
+    padding-left: 45px;
+}
+#footer {
+    background-color: #33a3e4;
+    text-align: center;
+    padding: 0px;
+    margin-top: 680px;
+    width: 100%;
+}
+#footer p {
+    display: inline;
+}
+#footer ul {
+    display: inline;
+    list-style: none;
+    padding: 15px;
+}
+#footer li {
+    display: inline;
+    padding: 15px;
 }
