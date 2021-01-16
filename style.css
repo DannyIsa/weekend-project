@@ -112,3 +112,46 @@ body{
 .home-main p{
     margin-top: 15px;
 }
+.information{
+    height: 50vw;
+}
+.information h1 {
+    font-size: 3em;
+    margin-left: 10px;
+}
+.information p {
+    font-size: 2em;
+    line-height: 1.4;
+    margin-left: 10px;
+}
+.more-info {
+    display: flex;
+    color: black;
+}
+.pic-and-fee {
+    display: flex;
+    flex-direction: column;
+}
+.pic {
+    width: 100%;
+}
+.map-img{
+    width: 100%;
+}
+.map-img:hover {
+    opacity: 0.5;
+}
+.entrance-fee {
+    border-collapse: collapse;
+    margin: 50px 200px;
+    font-size: 2em;
+}
+.main-tr {
+    background-color: #33a3e4;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+}
+.entrance-fee tr{
+    margin: 10px;
+}
